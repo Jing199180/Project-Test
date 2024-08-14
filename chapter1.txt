@@ -1,1 +1,1 @@
-It was a test file to learn how to use git.
+It was a practice for learning how to use branch in git.
